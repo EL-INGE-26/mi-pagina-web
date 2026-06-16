@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="Ilustracion de participacion social">
+  <rect width="600" height="320" fill="#f7f3ea"/>
+  <circle cx="300" cy="160" r="88" fill="#ffffff" stroke="#dde4e8" stroke-width="8"/>
+  <circle cx="300" cy="160" r="44" fill="#0f766e"/>
+  <path d="M277 162l16 16 36-46" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="88" r="36" fill="#d96545"/>
+  <circle cx="454" cy="88" r="36" fill="#1d3557"/>
+  <circle cx="150" cy="236" r="36" fill="#1d3557"/>
+  <circle cx="454" cy="236" r="36" fill="#d96545"/>
+  <path d="M184 104l78 36M416 104l-78 36M184 220l78-42M416 220l-78-42" stroke="#0f766e" stroke-width="10" stroke-linecap="round"/>
+  <path d="M138 88h24M150 76v24M442 88h24M150 236h24M454 224v24" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+</svg>

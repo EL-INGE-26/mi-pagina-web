@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="Ilustracion de oportunidades digitales">
+  <rect width="600" height="320" fill="#eaf7f5"/>
+  <rect x="82" y="72" width="436" height="176" rx="22" fill="#ffffff" stroke="#dde4e8" stroke-width="8"/>
+  <path d="M132 210v-46M210 210v-78M288 210v-54M366 210V114M444 210v-94" stroke="#0f766e" stroke-width="28" stroke-linecap="round"/>
+  <path d="M126 118h80M126 146h48" stroke="#1d3557" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="462" cy="94" r="40" fill="#d96545"/>
+  <path d="M446 94h32M462 78v32" stroke="#fff" stroke-width="11" stroke-linecap="round"/>
+  <path d="M120 250h360" stroke="#1d3557" stroke-width="10" stroke-linecap="round" opacity=".22"/>
+</svg>

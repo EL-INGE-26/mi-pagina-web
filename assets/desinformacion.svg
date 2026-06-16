@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="Ilustracion de verificacion contra desinformacion">
+  <rect width="600" height="320" fill="#fff6f1"/>
+  <rect x="78" y="72" width="262" height="178" rx="20" fill="#ffffff" stroke="#dde4e8" stroke-width="8"/>
+  <path d="M126 122h146M126 158h106M126 194h132" stroke="#1d3557" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="418" cy="162" r="66" fill="#d96545"/>
+  <path d="M390 134l56 56M446 134l-56 56" stroke="#fff" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="454" cy="214" r="36" fill="#0f766e"/>
+  <path d="M438 214l12 12 26-34" fill="none" stroke="#fff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M480 238l42 42" stroke="#1d3557" stroke-width="16" stroke-linecap="round"/>
+</svg>

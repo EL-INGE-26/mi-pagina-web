@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="Ilustracion de bienestar y tiempo en pantalla">
+  <rect width="600" height="320" fill="#f7f3ea"/>
+  <circle cx="196" cy="158" r="88" fill="#ffffff" stroke="#dde4e8" stroke-width="8"/>
+  <path d="M196 100v58l42 34" stroke="#1d3557" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M144 250c46 32 106 32 152 0" stroke="#0f766e" stroke-width="12" stroke-linecap="round"/>
+  <rect x="356" y="70" width="126" height="188" rx="24" fill="#172026"/>
+  <rect x="374" y="102" width="90" height="118" rx="12" fill="#fae8df"/>
+  <path d="M396 150h46M396 178h30" stroke="#d96545" stroke-width="12" stroke-linecap="round"/>
+  <path d="M322 160h28" stroke="#d96545" stroke-width="12" stroke-linecap="round"/>
+  <path d="M340 140l30 20-30 20" fill="none" stroke="#d96545" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

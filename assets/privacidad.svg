@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="Ilustracion de privacidad en internet">
+  <rect width="600" height="320" fill="#eaf7f5"/>
+  <circle cx="118" cy="86" r="52" fill="#ffffff" opacity=".75"/>
+  <circle cx="486" cy="250" r="64" fill="#d96545" opacity=".16"/>
+  <path d="M228 132v-34c0-40 32-72 72-72s72 32 72 72v34" fill="none" stroke="#0f766e" stroke-width="24" stroke-linecap="round"/>
+  <rect x="180" y="128" width="240" height="128" rx="24" fill="#1d3557"/>
+  <circle cx="300" cy="184" r="24" fill="#ffffff"/>
+  <path d="M300 206v28" stroke="#ffffff" stroke-width="16" stroke-linecap="round"/>
+  <path d="M118 126l72 34M482 226l-62-32" stroke="#d96545" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="112" cy="122" r="22" fill="#d96545"/>
+  <circle cx="488" cy="226" r="24" fill="#d96545"/>
+</svg>
